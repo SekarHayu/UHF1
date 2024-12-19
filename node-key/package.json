@@ -1,0 +1,19 @@
+{
+  "name": "key",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "console": "^0.7.2",
+    "fs": "^0.0.1-security",
+    "keypress": "^0.2.1",
+    "path": "^0.12.7"
+  }
+}
